@@ -1,1 +1,1 @@
-# Gtps-Script
+# Gtps-news maker
